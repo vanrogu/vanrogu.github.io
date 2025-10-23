@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Home"
+permalink: /myindex
 ---
 #H1 header
 test <a href="index">here</a>
