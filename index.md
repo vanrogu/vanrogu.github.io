@@ -1,14 +1,16 @@
 ---
-layout: default
-title: "Home"
-permalink: /myindex
+layout: page
+# Index page
 ---
-# H1 header
-test <a href="index">here</a>
-## H2 one
-this is <u>just a test</u> with Github pages
-## H2 two
-absolutely <b>nothing</b> to see here...
+test home
+
+# Testing
+this is a test homepage
+
+## Test1
+about/contact page 2
+
+## Test2
 
 ```bash
 if [ $? -ne 0 ]; then
@@ -16,3 +18,7 @@ if [ $? -ne 0 ]; then
   #do the needful / exit
 fi;
 ```
+
+## Test3
+
+some other content
