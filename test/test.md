@@ -8,10 +8,22 @@ tags: [test, information]
 # test page
 some simple test page linking <a href="../">back to root</a>, or is it <a href="../../">this link</a>?
 
-```java
+
+
+```
+
 	public Event<DOMAIN_EVENT_TYPE> withTags ( Tags tags ) {
 		return new Event<>(stream, type, reference, data, tags, timestamp);
 	}
+	
+```
+
+```java
+
+	public Event<DOMAIN_EVENT_TYPE> withTags ( Tags tags ) {
+		return new Event<>(stream, type, reference, data, tags, timestamp);
+	}
+	
 ```
 
 test
