@@ -16,10 +16,10 @@ timezone:
 
 title: sliceworkz.org # the main title
 
-tagline: Tools for Feature Sliced Software with EventModeling and Event Sourcing  # it will display as the subtitle
+tagline: Open Source libraries for Feature Sliced Java Software with EventModeling and Event Sourcing  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Tools for Feature Sliced Software with EventModeling and Event Sourcing (Dynamic Consistency Boundary, etc...)
+  Open Source libraries for Feature Sliced Java Software with EventModeling and Event Sourcing (Dynamic Consistency Boundary, etc...)
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
