@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="235.568" height="105.461"><svg version="1.1" id="SvgjsSvg1005" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 235.568 105.461" style="enable-background:new 0 0 235.568 105.461;" xml:space="preserve">
+<g>
+	<linearGradient id="SvgjsLinearGradient1004" gradientUnits="userSpaceOnUse" x1="35.6616" y1="11.1266" x2="154.4491" y2="105.7623">
+		<stop offset="0" style="stop-color:#4F70D6"></stop>
+		<stop offset="1" style="stop-color:#79A4ED"></stop>
+	</linearGradient>
+	<path style="fill:url(#SVGID_1_);" d="M199.143,30.67L173.537,0h-48.255H95.384h-8.757L63.472,28.934L39.317,0H0l44.23,52.978
+		L2.229,105.461h38.656l23.082-28.842l24.08,28.842h38.888h0.429h35.997V30.67H199.143z M126.934,104.948L83.208,52.574
+		l17.529-21.904h26.196V104.948z"></path>
+	<linearGradient id="SvgjsLinearGradient1003" gradientUnits="userSpaceOnUse" x1="199.694" y1="47.2414" x2="234.1966" y2="130.5406">
+		<stop offset="0" style="stop-color:#FD0067"></stop>
+		<stop offset="1" style="stop-color:#FD4DA5"></stop>
+	</linearGradient>
+	<polygon style="fill:url(#SVGID_2_);" points="199.143,30.671 199.143,105.461 235.568,105.461 235.568,74.3 	"></polygon>
+</g>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
