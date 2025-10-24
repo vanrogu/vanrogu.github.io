@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: vanrogu # the main title
+title: sliceworkz.org # the main title
 
-tagline: Just testing with gitHub pages # it will display as the subtitle
+tagline: Tools for Feature Sliced Software with EventModeling and Event Sourcing  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Tools for Feature Sliced Software with EventModeling and Event Sourcing (Dynamic Consistency Boundary, etc...)
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
