@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: "Contact me 2"
 permalink: /about/contact2
 ---
